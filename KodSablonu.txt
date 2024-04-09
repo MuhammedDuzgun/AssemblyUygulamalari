@@ -1,0 +1,20 @@
+#------------------------
+
+
+
+	.data #the global variable field
+	
+
+	
+	
+	.text #the user codes
+	
+main:
+
+
+bitir: 
+
+#------------------------
+	#terminate the main program
+	li $v0, 10		
+	syscall 		
